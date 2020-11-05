@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-<h1>Dupsko</h1>
+<h1>kox</h1>
 </head>
 <body>
 <?php
@@ -14,7 +14,7 @@ $dbname = "baza";
 $conn= new mysqli($servername,$username,$password,$dbname);
 
 $sql ="select * from pracownicy";
-echo("<h3>Koń Zwalony?</h3>");
+echo("<h3>kozak</h3>");
 $result = mysqli_query($conn, $sql);
 
 echo('<table border="1" class="tabela"');
