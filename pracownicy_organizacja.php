@@ -8,13 +8,13 @@
     <h1>Szafrański Dawid</h1>
     
     <div class = "nav">
-        <a href="index.php">strona główna</a>
+        <a href="index.php">Strona główna</a>
         <br>
-        <a href="pracownicy_organizacja.php">pracownicy organizacja</a>
+        <a href="pracownicy_organizacja.php">Pracownicy organizacja</a>
         <br>
-        <a href="funkcje_agregujace.php">Funkcje Agregujace</a>
+        <a href="funkcje_agregujace.php">Funkcje agregujace</a>
         <br>
-        <a href="data_czas.php">Data i Czas</a>
+        <a href="data_czas.php">Data i czas</a>
     </div>
 <?php
 $servername = "mysql-kcz.alwaysdata.net";
