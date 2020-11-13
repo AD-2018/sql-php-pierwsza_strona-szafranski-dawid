@@ -22,7 +22,7 @@ $username = "kcz";
 $password = "zaq1@WSX";
 $dbname = "kcz_20";
 
-$conn = new mysqli($servername, $username, $password, $dbname);\
+$conn = new mysqli($servername, $username, $password, $dbname);
     echo("<h3> PIERWOWZÓR </h3>");
 $sql = "SELECT * FROM pracownicy";
     echo ("<li>".$sql."</li><br><br>");
