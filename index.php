@@ -17,7 +17,7 @@
         <br>
         <a href="data_czas.php">Data i Czas</a>
         <br>
-        <a href="formularz.html">Formularz</a>
+        <a href="formularz.html">Strona formularza</a>
     </div>
 <?php
 $servername = "mysql-kcz.alwaysdata.net";
