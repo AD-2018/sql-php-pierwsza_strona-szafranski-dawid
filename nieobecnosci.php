@@ -26,7 +26,7 @@
          <br>
          <a href="strona.php">Strona</a>
          <br>
-         <a href="daneDoBazy.html">Dane Do Bazy</a>
+         <a href="DaneBaza.html">Dane Do Bazy</a>
          <br>
 	 <a href="insert.php">insert.php</a>
     </div>
