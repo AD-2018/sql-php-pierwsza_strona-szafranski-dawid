@@ -28,8 +28,7 @@
          <br>
          <a href="daneDoBazy.html">Dane Do Bazy</a>
          <br>
-         <a href="insert.php">insert.php</a>
-         <br>
+	 <a href="insert.php">insert.php</a>
     </div>
     <br>
 </nav> 
