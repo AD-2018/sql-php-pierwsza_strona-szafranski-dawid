@@ -9,15 +9,23 @@
     <h1>Dawid Szafrański</h1>
     
     <div class = "nav">
-        <a href="index.php">strona główna</a>
-        <br>
-        <a href="pracownicy_organizacja.php">pracownicy organizacja</a>
-        <br>
-        <a href="funkcje_agregujace.php">Funkcje Agregujace</a>
-        <br>
-        <a href="data_czas.php">Data i Czas</a>
-        <br>
-        <a href="formularz.html">Strona formularza</a>
+        <a href="index.php">Strona Główna</a> 
+         <br>        
+         <a href="pracownicy.php">Pracownicy</a>
+         <br>
+         <a href="pracownicy_organizacja.php">Pracownicy i Organizacja</a>   
+         <br>
+         <a href="funkcje_agregujace.php">Funkcje Agregujace</a>  
+         <br>
+         <a href="data_czas.php">Data i Czas</a>
+         <br>
+         <a href="nieobecnosci.php">Nieobecności Pracowników</a>
+         <br>
+         <a href="strona.php">Strona</a>
+         <br>
+         <a href="daneDoBazy.html">Dane Do Bazy</a>
+         <br>
+	 <a href="insert.php">insert.php</a>
     </div>
 <?php
 $servername = "mysql-kcz.alwaysdata.net";
