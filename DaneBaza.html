@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Dane do Bazy</title>
+</head>
+<body>
+<nav>
+    <br>
+    <a href="https://github.com/AD-2018/sql-php-pierwsza_strona-szafranski-dawid</a>
+    <br>
+    <br>
+    <div class="nav">
+         <a href="index.php">Strona Główna</a>  
+         <a href="pracownicy.php">Pracownicy</a>
+         <a href="pracownicy_organizacja.php">Pracownicy i Organizacja</a>   
+         <a href="funkcje_agregujace.php">Funkcje Agregujace</a>  
+         <a href="data_czas.php">Data i Czas</a>
+         <a href="nieobecnosci.php">Nieobecności Pracowników</a>
+         <a href="strona.php">Strona</a>
+    </div>
+    <br>
+</nav> 
+</br>
+<h1>Dodawanie i usuwanie</h1>
+<h3>dodawanie pracownika</h3>
+<form action="insert.php" method="POST">
+	<a>Imie:</a><input type="text" name="imie"><br>
+	<a>Dział:</a><input type="text" name="dzial"></br>
+	<a>Zarobki:</a><input type="text" name="zarobki"></br>
+	<a>Data Urodzenia:</a><input type="text" name="data_urodzenia"></br>
+	<input type="submit" value="dodaj pracownika">
+</form>
+<h3>usuwanie pracownika</h3>
+<form action="delete.php" method="POST">
+   <input type="number" name="id"></br>
+   <input type="submit" value="USUŃ">
+ </form>
+</body>
+</html>
