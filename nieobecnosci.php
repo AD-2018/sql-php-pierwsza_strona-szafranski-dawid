@@ -5,7 +5,7 @@
 </head>
 <body>
     
-    <h1>Filip Jabłoński</h1>
+    <h1>Dawid Szafrański</h1>
 <nav>
     <br>
     <a href="https://github.com/AD-2018/sql-php-pierwsza_strona-szafranski-dawid">github</a>
