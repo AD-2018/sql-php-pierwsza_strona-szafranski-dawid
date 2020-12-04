@@ -1,4 +1,4 @@
-<?phpv
+<?php
 require_once("connect.php");
 echo("Delete" . "<br>");
 echo $_POST['id'];
