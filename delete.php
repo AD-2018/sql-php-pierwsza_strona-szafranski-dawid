@@ -8,7 +8,7 @@ $sql = "DELETE FROM Pracownik WHERE id= $_POST['id'];";
 echo $sql;
 
 if ($conn->query($sql) === TRUE) {
-  echo $sql;
+  header ('Location: https://php-dawidszafranski.herokuapp.com/DaneBaza.html');
 } else {
   echo "Error: " . $sql . "<br>" . $conn->error;
 }
