@@ -1,4 +1,4 @@
-<!DOCTYPE html>vv
+<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="kox.css">
