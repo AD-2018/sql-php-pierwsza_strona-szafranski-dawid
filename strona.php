@@ -1,4 +1,4 @@
-<!DOCTYPE html>vvvv
+<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
