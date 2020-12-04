@@ -20,7 +20,7 @@
          <br>
          <a href="nieobecnosci.php">Nieobecności Pracowników</a>
          <br>
-         <a href="strona.php">Strona</a>
+         <a href="strona.php">Stronka</a>
          <br>
          <a href="DaneBaza.html">Dane Do Bazy</a>
          <br>
