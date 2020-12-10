@@ -68,6 +68,7 @@
    <input type="submit" value="USUŃ">
  </form>
  <a href="index.php">menu</a>
+<script>
 <?php
 require_once("connect.php");
 $sql = "SELECT * FROM pracownicy, organizacja WHERE id_org = dzial";
@@ -96,5 +97,6 @@ echo('</tr>');
 }
 echo('</table>');
 ?>
+</script>
 </body>
 </html>
