@@ -9,7 +9,7 @@
     <h1>Dawid Szafrański</h1>
     
     <div class = "nav">
-        <a href="/pracownicy/index.php">Strona Główna</a> 
+        <a href="index.php">Strona Główna</a> 
          <br>        
          <a href="/pracownicy/pracownicy.php">Pracownicy</a>
          <br>
