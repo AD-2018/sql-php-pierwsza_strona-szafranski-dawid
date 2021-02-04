@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="kox.css">
+<link rel="stylesheet" href="/kox.css">
 </head>
 <body>
     <a href="https://github.com/AD-2018/
