@@ -9,7 +9,7 @@ sql-php-pierwsza_strona-szafranski-dawid">github</a>
     <h1>Dawid Szafrański</h1>
     
     <div class = "nav">
-          <a href="index.php">Strona Główna</a> 
+           <a href="/index.php">Strona Główna</a> 
          <br>        
          <a href="/pracownicy/pracownicy.php">Pracownicy</a>
          <br>
@@ -26,6 +26,8 @@ sql-php-pierwsza_strona-szafranski-dawid">github</a>
          <a href="/pracownicy/DaneBaza.html">Dane Do Bazy</a>
          <br>
 	 <a href="/pracownicy/insert.php">insert.php</a>
+	<br>
+	<a href="/biblioteka/biblioteka.php">biblioteka</a>
     </div>
 <?php
   $servername = "mysql-kcz.alwaysdata.net";
