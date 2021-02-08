@@ -1,5 +1,5 @@
 <?php
-echo("jestes w new_autor.php <br>");
+echo("nowy-autor.php <br>");
 echo "<li>". $_POST['autor'];
 
 $servername = "mysql-kcz.alwaysdata.net";
@@ -20,7 +20,7 @@ $sql = "INSERT INTO bibl_autor (id_autor,autor)
 echo "<li>". $sql;
 
 if ($conn->query($sql) === TRUE) {
-   header ('Location:https://kozak-szymon.herokuapp.com/Biblioteka/biblioteka.php');
+   header ('Location:https://php-dawidszafranski.herokuapp.com/biblioteka/biblioteka.php');
 } else {
   echo "Error: " . $sql . "<br>" . $conn->error;
 }
