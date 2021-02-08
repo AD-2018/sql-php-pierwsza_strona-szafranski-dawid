@@ -1,4 +1,4 @@
-<?phpc
+<?php
 echo("jestes w new_tytul.php <br>");
 echo "<li>". $_POST['tytul'];
 
