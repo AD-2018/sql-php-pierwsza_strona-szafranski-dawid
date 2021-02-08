@@ -1,5 +1,5 @@
 <?php
-echo("jestes w new_tytul.php <br>");
+echo("nowy-tytuł.php <br>");
 echo "<li>". $_POST['tytul'];
 
 $servername = "mysql-kcz.alwaysdata.net";
