@@ -20,7 +20,7 @@ $sql = "INSERT INTO bibl_tytul (id_tytul,tytul)
 echo "<li>". $sql;
 
 if ($conn->query($sql) === TRUE) {
-   header ('Location:https://kozak-szymon.herokuapp.com/Biblioteka/biblioteka.php');
+   header ('Location:https://php-dawidszafranski.herokuapp.com/biblioteka/biblioteka.php');
 } else {
   echo "Error: " . $sql . "<br>" . $conn->error;
 }
