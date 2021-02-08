@@ -1,4 +1,4 @@
-<?php
+<?phpv
 echo("jestes w new_autor.php <br>");
 echo "<li>". $_POST['autor'];
 
